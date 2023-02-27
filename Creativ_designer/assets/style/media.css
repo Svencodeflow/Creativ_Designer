@@ -1,0 +1,109 @@
+@media only screen and (max-width: 600px) {
+    html {
+        font-size: 6px;
+    }
+
+    .elephant img  {
+        width: 30px;
+        height: 30px;
+    }
+
+    .text h1 {
+        font-size: 3rem;
+    }
+
+    .text p img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .text p {
+        margin-top: 1em;
+    }
+
+    .collage img {
+        height: 50vh;
+    }
+
+    .first_idea div:nth-of-type(1) h2 {
+        font-size: 5rem;
+        width: 40vw;
+    }
+
+    .first_idea h2 img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .first_two h2 {
+        font-size: 5rem;
+        width: 50vw;
+    }
+
+    .titel_1  {
+        width: 20px;
+        height: 20px;
+    }
+
+    .asking {
+        flex-direction: column;
+        justify-content: left;
+        align-items: center;
+        text-align: center;
+    }
+
+    .asking2 h2 {
+        width: 25vw;
+    }
+
+    .asking2 p {
+        margin-bottom: 5em;
+    }
+
+
+    .teil_01 {
+        align-items: center;
+    }
+
+    .teil_01 div:nth-of-type(1) img {
+        height: 40vh;
+        width: 40vw;
+    }
+
+    .teil_02 {
+        align-items: center;
+    }
+
+    .teil_02 div:nth-of-type(2) img {
+        height: 40vh;
+        width: 40vw;
+    }
+
+    .last h2  {
+        font-size: 3rem;
+        margin-top: 5em;
+    }
+
+    .last p {
+        font-size: 2rem;
+    }
+
+    .formero input[type=email] {
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    .formero input[type=button] {
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    .love {
+        padding-left: 5em;
+    }
+
+    .love img {
+        width: 35px;
+        height: 18px;
+    }
+}
